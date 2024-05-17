@@ -10,9 +10,22 @@ Da wir im nächsten Modul uns mit Websiten befassen werden, werde ich in dieser 
 Heute habe ich mit dem HTML Programmierprojekt angefangen. Vom Anfang an, wollte ich mit einem Grid arbeiten, also habe ich recherchiert, wie ich ein Grid erstellen könnte. am Anfang war es ein bisschen unzuverlässig und inkonsistent, aber schlussendlich konnte ich es nutzbar machen. Ich habe dann angefangen Bilder und Text einzufügen, um das Grid zu testen. Ich habe danach schnell ein Bild eingefügt, das schwebt, wenn es angeklickt wird und einen Link eingefügt, der abgerufen wird, wenn man darauf drückt. schlussendlich habe ich noch ein Bild eingefügt, das ich animiert habe, indem es sich dreht.(95)
 
 ## 17.05.2024
-- [ ] Thema finden
-- [ ] grafisch anpassen
-- [ ] Sub-webseiten erstellen
-- [ ] Webseiten verbinden
+- [x] Thema finden
+- [x] grafisch anpassen
+- [x] Sub-webseiten erstellen
+- [x] Webseiten verbinden
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |Thema für Webseite gebraucht.|Entscheidung von Thema.|Zielgesetzte Arbeit um ein Thema.|Ja|
+| 2             |Anspruchsloses Design.|Verbesserung der Grafik.|Ansprechsvollere Webseite|Ja|
+| 3               |Nur startseite vorhanden.|Erstellung von Sub-Webseiten.|Zugriff auf mehrere Webseiten bassierend auf das Thema.|Ja|
+| 4             |Keine verbindung zwischen Webseiten.|Implemention von Links.|Die Webseiten sind jetzt mit einander Verbunden.|Ja|
+
+Heute habe ich angefangen, indem ich mir ein festes Thema setzen kann. Ich habe mich schlussendlich darauf entschieden, eine Webseite zu machen, welche mythologische Kreaturen von verschiedenen Kulturen präsentiert und sie erklärt. fürs erste will ich das es eine Art Bestiarium ist, aber ich will noch Funktionen in diese Webseite einfügen, wo man Die Kreatur aufrufen kann und dann zur Sub-Webseite geführt wird. Als ich das Thema festlegen konnte, habe ich angefangen die Webseite mit selbstgeschaffenen Grafiken zu gestallten. Es hat noch übrige nicht selbst gemachte und nutzlose Grafiken, die ich nächstes Mal entfernen werde. Ich habe danach die Sub-Webseiten gemacht und angefangen Informationen in die Webseiten zu füllen. Das nächste Mal, versuche ich, die Aufruf Funktion einzufügen. (119)
+
+## 24.05.2024
+- [ ] Grafisches design auf der Homepage fertigstellen.
+- [ ] Erarbeitung von den anderen Sub-Webseiten.
+- [ ] Implemention Dropdown funktion.
+- [ ] Funktionales Webseitenlinken.
