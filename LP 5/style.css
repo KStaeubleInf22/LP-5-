@@ -1,0 +1,100 @@
+
+.grid-container {
+    display: grid;
+    grid-template: 50px 50px / 200px auto 200px;
+    column-gap: 25px;
+    justify-content: space-between;
+  }
+h1{
+    grid-row-start: 1;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    color: rgb(151, 231, 245);
+  display: inline-block;
+  font-size: 5ch;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  height: 73px;
+  width: 100%;
+  text-align: center; 
+  font-style: bold;
+  background-color:black;
+}
+body{
+    background-image: url(HINTERGRUND.png);
+    background-size: cover;
+}
+p{
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    grid-row-start: 3;
+    grid-column-start: 1;
+    color: rgb(151, 231, 245);
+    display: inline-block;
+    height: 200px;
+    background-color:rgba(33, 79, 68, 0.537);
+}
+#wow{
+    grid-row-start: 3;
+    grid-column-start: 4;
+    height: 100%;
+}
+#R{
+  grid-row-start: 2;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-end: 3;
+  font-size: 9ch;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: inline-block;
+  color: rgb(63, 81, 81);
+  height: 370px;
+  width: 140%;
+  background-color:rgba(103, 151, 146, 0.537);
+}
+#B{
+  grid-row-start: 2;
+  grid-column-start: 4;
+  height: 100%;
+    transition: 0.2s;
+    transform: translate(0%, -50%);
+}
+#B:hover{
+    transform: scale(3);
+  }
+a{
+    grid-row-start: 2;
+    grid-column-start: 4;
+    height: 100%;
+}
+#G{
+    grid-row-start: 2;
+    grid-column-start: 1;
+    height: 100%;
+    animation-name: spin;
+  animation-duration: 5000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+}
+  @keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(1440deg);
+    }
+}
+
+#what{
+    grid-row-start: 4;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    color: rgb(151, 231, 245);  
+    font-size: 32px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: inline-block;
+  height: 120px;
+  text-align: center; 
+  font-style:oblique;
+  background-color:rgba(33, 79, 68, 0.537);
+}
+

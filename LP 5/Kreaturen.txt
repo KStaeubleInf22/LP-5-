@@ -1,0 +1,24 @@
+Europa:
+1.Jormungandr
+2.Cerberus
+3.Krampus
+4.Titan
+5.Gnom
+6.Sirene
+7.Drachen
+8.Leshy 
+Nordamerika:
+1.Wendigo
+2.Ijiraq
+3.Urayuli
+4.Big Foot
+Asien:
+1.Bes Rap
+2.Omukade (Yokai)
+3.Oni
+4.Drachen
+Afrika:
+1.Makalala
+2.Leucrocotta
+3.Nanabolele
+4.Zankallala
