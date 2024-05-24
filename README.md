@@ -27,5 +27,21 @@ Heute habe ich angefangen, indem ich mir ein festes Thema setzen kann. Ich habe 
 ## 24.05.2024
 - [ ] Grafisches design auf der Homepage fertigstellen.
 - [ ] Erarbeitung von den anderen Sub-Webseiten.
-- [ ] Implemention Dropdown funktion.
+- [X] Implemention Dropdown funktion.
+- [X] Funktionales Webseitenlinken.
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |Anspruchsloses Design.|Verbesserung der Grafik.|Ansprechsvollere Webseite.|Nein|
+| 2             |Nutzlose Sub-Webseiten.|Erarbeitung der Sub-Webseiten.|Mehr Webseiten zum Arbeiten.|Nein|
+| 3               |Keine effiziente weisse, Sub-Webseiten auszuwählen.|Erstellung von Sub-Webseiten.|Zugriff auf mehrere Webseiten bassierend auf das Thema.|Ja|
+| 4             |Keine verbindung zwischen Webseiten.|Implemention von Links.|Die Webseiten sind jetzt mit einander Verbunden.|Ja|
+
+Heute habe ich damit angefangen, das Layout der Webseite ein bisschen umzuändern. Ich habe mich entschieden, den verschiedenen Kontinenten, eigene Sub-webseiten zu geben. So werde ich nicht eine Seite mix Text füllen müssen, und kann es auf mehrere Seiten aufteilen. Damit wird ist es übersichtlicher. Mit der Hilfe eines Dropdown Menüs kann man auf die verschiedenen Sub-Webseiten zugreifen. Ich konnte noch nicht das Grafische design fertig stellen und konnte noch keine weiteren Änderungen machen, aber diese werde ich nächste Woche machen. (81)
+
+
+## 31.05.2024
+- [ ] Grafisches design auf der Homepage fertigstellen.
+- [ ] CSS Datei kompatibel mit mehreren HTML Dateien machen.
+- [ ] Erarbeitung von den anderen Sub-Webseiten.
 - [ ] Funktionales Webseitenlinken.
