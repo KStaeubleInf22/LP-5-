@@ -22,50 +22,26 @@ h1{
   font-style: bold;
   background-color:black;
 }
-#R{
+main{
     grid-row-start: 3;
     grid-column-start: 2;
-    grid-column-end: 2;
-    grid-row-end: 3;
+
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: block;
-    font-size: 5ch;
     color: rgb(0, 0, 0);
     width: 200%;
     height: 100%;
     margin: 10;
     background-color:rgba(24, 136, 125, 0.537);
-    text-align: center;
+
   }
   p{
     font-size: larger;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     grid-row-start: 3;
-    grid-column-start: 4;
+    grid-column-start: 3;
     color: rgb(151, 231, 245);
     display: inline-block;
     height: 200px;
     background-color:rgba(24, 136, 125, 0.537);
-}
-#G{
-  grid-row-start: 2;
-  grid-column-start: 1;
-  height: 100%;
-}
-ul li ul.dropdown li {
-  display: block;
-}
-ul li ul.dropdown {
-  width: 30%;
-  position: absolute;
-  background: #22448c89;
-  z-index: 999;
-  display: none;
-  text-align: center;
-}
-ul li a:hover {
-  background: #22448c89;
-}
-ul li:hover ul.dropdown {
-  display: block;
 }

@@ -43,7 +43,7 @@ p{
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-end: 3;
-  font-size: 9ch;
+  font-size:9ch;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   display: inline-block;
   color: rgb(63, 81, 81);
@@ -96,5 +96,21 @@ a{
   text-align: center; 
   font-style:oblique;
   background-color:rgba(33, 79, 68, 0.537);
+}
+li ul li .dropdown li{
+  display: inline-block;
+}
+li ul li .dropdown {
+  width: 100%;
+  background:rgba(33, 79, 68, 0.537);
+  position: absolute;
+  z-index: 999;
+  display: none;
+}
+ul li a :hover {
+  background: rgba(33, 79, 68, 0.537);
+}
+ul li:hover ul .dropdown {
+  display: inline-block;
 }
 
