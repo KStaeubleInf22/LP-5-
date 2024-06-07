@@ -45,3 +45,12 @@ Heute habe ich damit angefangen, das Layout der Webseite ein bisschen umzuänder
 - [ ] CSS Datei kompatibel mit mehreren HTML Dateien machen.
 - [ ] Erarbeitung von den anderen Sub-Webseiten.
 - [ ] Funktionales Webseitenlinken.
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |Anspruchsloses Design.|Verbesserung der Grafik.|Ansprechsvollere Webseite.|Nein|
+| 2             |kompabilität von CSS code mit mehreren HTML codes.|Konfiguration, so damit es funktionieren würde.|Keine unnötigen CSS Dateien sind erhalten.|Nein|
+| 3             |Nutzlose Sub-Webseiten.|Erarbeitung der Sub-Webseiten.|Mehr Webseiten zum Arbeiten.|Nein|
+| 4             |Keine verbindung zwischen Webseiten.|Implemention von Links.|Die Webseiten sind jetzt mit einander Verbunden.|Nein|
+
+Heute habe ich nicht an diesem Projekt arbeiten können. Ich habe mich entschieden, dass ich am Modul 122 arbeiten würde, da es zurzeit die Priorität war und ich es hätte am Abend abgeben müssen. Ich habe die gegeben Aufträge für das Modul 122 gemacht und in das von Herr Fähndrich gegebene Lernjournal eingetragen. Nachdem ich mit diesen Aufträgen fertig war, hatte ich nicht mehr genug Zeit, wirkungsvolle Änderungen an diesem Projekt zu machen, also konnte ich am Ende kaum am Projekt arbeiten. (83)
