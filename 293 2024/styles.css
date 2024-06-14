@@ -1,0 +1,189 @@
+
+.annie-use-your-telescope-regular {
+    font-family: "Annie Use Your Telescope", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+body{
+    height: 100;
+    background-color: rgb(255, 106, 106);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    height: 70px;
+    width: 100%;
+    background-color:black;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.144);
+    position: relative;
+    padding: 10px;
+    font-family: "Annie Use Your Telescope";
+    font-size: 6.5ch;
+    color: #d61e1e;
+    text-align: center;
+    vertical-align: top;
+}
+
+nav ul{
+    display: inline-block;
+
+    background-size: cover;
+  background-color: black;
+  color:red;
+
+}
+nav li{
+   display: inline-block;
+   padding: 5.35ch;
+}
+nav li a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #d61e1e;
+    text-decoration: none;
+}
+
+nav img{
+    width:4cm; 
+    transition: 0.2s;
+}
+
+nav img:hover{
+  transform: scale(1.2);
+  
+}
+Footer{
+    text-align: center;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    font-size: 12ch;
+    margin-top: 0ch;
+   margin-left: 0.5ch;
+}
+sidebar{
+    text-align: center;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    padding: 20px;
+    font-size: 5ch;
+    color: #d61e1e;
+    width: 28.5ch;
+    vertical-align: top;
+    font-family: "Annie Use Your Telescope";
+    font-weight: 900;
+}
+p{
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    padding: 10px;
+    color: #d61e1e;
+    margin-left: 3ch;
+    font-family: "Annie Use Your Telescope";
+    font-weight: 500;
+    font-size: 2.3ch;
+    width: 430px;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    body{
+        height: 100;
+        background-color: rgb(255, 106, 106);
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    h1{
+        height: 70px;
+        width: 100%;
+        background-color:black;
+        box-shadow: 0px 2px 4px rgba(0,0,0,0.144);
+        position: relative;
+        padding: 10px;
+        font-family: "Annie Use Your Telescope";
+        font-size: 5ch;
+        color: #d61e1e;
+        text-align: center;
+        vertical-align: top;
+    }
+    nav ul{
+        display: inline-block;
+    
+        background-size: cover;
+      background-color: black;
+      color:red;
+    
+    }
+    nav li{
+       display: inline-block;
+       padding: 10px;
+    }
+    nav li a{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 5px;
+        color: #d61e1e;
+        text-decoration: none;
+    }
+    
+    nav img{
+        width:20mm; 
+        transition: 0.2s;
+    }
+    
+    nav img:hover{
+      transform: scale(1.2);
+      
+    }
+    #SCRAPBEAK{
+        margin-left: 23ch;
+    }
+Footer{
+    text-align: center;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    font-size: 6ch;
+    margin-top: 0ch;
+}
+sidebar{
+    text-align: center;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    padding: 10px;
+    font-size: 1.5ch;
+    color: #d61e1e;
+    width: 5.5ch;
+    vertical-align: top;
+    font-family: "Annie Use Your Telescope";
+    font-weight: 900;
+}
+p{
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    padding: 5px;
+    color: #d61e1e;
+    font-family: "Annie Use Your Telescope";
+    font-weight: 900;
+    font-size: 1.2ch;
+    width: 175px;
+    
+}
+}

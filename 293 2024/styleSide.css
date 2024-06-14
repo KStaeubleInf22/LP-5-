@@ -1,0 +1,26 @@
+.annie-use-your-telescope-regular {
+    font-family: "Annie Use Your Telescope", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+body{
+    height: 100;
+    background-color: rgb(255, 106, 106);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    height: 70px;
+    width: 100%;
+    background-color:black;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.144);
+    position: relative;
+    padding: 10px;
+    font-family: "Annie Use Your Telescope";
+    font-size: 6.5ch;
+    color: #d61e1e;
+    text-align: center;
+    vertical-align: top;
+}
