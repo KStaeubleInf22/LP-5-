@@ -54,3 +54,24 @@ Heute habe ich damit angefangen, das Layout der Webseite ein bisschen umzuänder
 | 4             |Keine verbindung zwischen Webseiten.|Implemention von Links.|Die Webseiten sind jetzt mit einander Verbunden.|Nein|
 
 Heute habe ich nicht an diesem Projekt arbeiten können. Ich habe mich entschieden, dass ich am Modul 122 arbeiten würde, da es zurzeit die Priorität war und ich es hätte am Abend abgeben müssen. Ich habe die gegeben Aufträge für das Modul 122 gemacht und in das von Herr Fähndrich gegebene Lernjournal eingetragen. Nachdem ich mit diesen Aufträgen fertig war, hatte ich nicht mehr genug Zeit, wirkungsvolle Änderungen an diesem Projekt zu machen, also konnte ich am Ende kaum am Projekt arbeiten. (83)
+
+## 07.06.2024
+
+- [X] 293 Projekt anfangen.
+- [X] CSS design erstellen.
+- [X] Unterseiten einfügen.
+- [ ] Gerät Kompatibilität.
+      
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |Neues Projekt für 293 erstellen.|Erstellung von einem Projekt.|Vorlage für ein Projekt.|Ja|
+| 2             |CSS Datei benötigt.Erstellung CSS Datei.|Organisierte Webseite.|Ja|
+| 3             |Unterseiten sind nötig.|Erstellung von Unterseiten.|Mehr Webseiten zum Arbeiten.|Ja|
+| 4             |Das Layout ändert sich nicht.|Implemention von änderung von Layout bassierend auf Screengrösse.|Die Webseiten kann jetzt auf verschiedenen Geräten funktional geöffnet werden.|Nein|
+
+## 14.06.2024
+
+- [ ] Gerät Kompatibilität.
+- [ ] CSS Dateien für Unterseiten.
+- [ ] Quizz Daten in Unterseiten.
+- [ ] Quizz funktionen.
