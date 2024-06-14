@@ -71,7 +71,23 @@ Heute habe ich nicht an diesem Projekt arbeiten können. Ich habe mich entschied
 
 ## 14.06.2024
 
-- [ ] Gerät Kompatibilität.
-- [ ] CSS Dateien für Unterseiten.
-- [ ] Quizz Daten in Unterseiten.
-- [ ] Quizz funktionen.
+- [X] Gerät Kompatibilität.
+- [X] CSS Dateien für Unterseiten.
+- [ ] Quiz Daten in Unterseiten.
+- [ ] Quiz funktionen.
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1             |Das Layout ändert sich nicht.|Implemention von änderung von Layout bassierend auf Screengrösse.|Die Webseiten kann jetzt auf verschiedenen Geräten funktional geöffnet werden.|Ja|
+| 2             |CSS Datei benötigt für die Unterseiten.| Erstellung CSS Datei für Unterseiten.|Gestaltung für Unterseite.|Ja|
+| 3             |Informationen zum Quiz gebraucht .|Einfügung von Informationen zum Quiz in den Unterseiten.|Der Nutzer hat kann sich jetzt für das Quiz informieren.|Nein|
+| 4             |Quiz wird gebraucht.|Erstellung von Quiz.|Der Nutzer kann sein wissen testen.|Nein|
+
+Heute habe ich mit meinem Projekt angefangen für das Modul 293. Ich habe angefangen idem ich die Webseite erstellt habe und den Aufbau geplant habe. Ich habe dann am design und Layout der Webseite gearbeitet. Ich habe all den Text und die Bilder für die Hauptseite gemacht. Danach habe ich Display Kompatibilität erstellt. Schlussendlich habe ich noch mit einer Unterseite angefangen. (61)
+
+## 21.06.2024
+
+- [ ] Quiz Daten in Unterseiten.
+- [ ] Quiz funktionen.
+- [ ] Quiz CSS.
+- [ ] Quiz Bewertung.
