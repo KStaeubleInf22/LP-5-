@@ -87,7 +87,7 @@ Heute habe ich mit meinem Projekt angefangen für das Modul 293. Ich habe angefa
 
 ## 21.06.2024
 
+- [X] Modul 122 Anfangen.
+- [ ] Modul 122 PowerShell Code schreiben.
+- [ ] Externe Daten für den PowerShell Code erstellen.
 - [ ] Quiz Daten in Unterseiten.
-- [ ] Quiz funktionen.
-- [ ] Quiz CSS.
-- [ ] Quiz Bewertung.
