@@ -88,6 +88,20 @@ Heute habe ich mit meinem Projekt angefangen für das Modul 293. Ich habe angefa
 ## 21.06.2024
 
 - [X] Modul 122 Anfangen.
-- [ ] Modul 122 PowerShell Code schreiben.
-- [ ] Externe Daten für den PowerShell Code erstellen.
+- [X] Modul 122 PowerShell Code schreiben.
+- [X] Externe Daten für den PowerShell Code erstellen.
 - [ ] Quiz Daten in Unterseiten.
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1             |Modul 122 noch nicht angefangen.|Anfangen mit Projekt.|Habe jetzt alle Vorlagen bereit.|Ja|
+| 2             |Modul 122 braucht einen PowerShell Code.| Anfangen mit PowerShell Code.|Guten vorschritt und präperation für das modul.|Ja|
+| 3             |Externe Daten gebraucht für infos .|Einfügung von Informationen in die PowerShell Daten.|Jetzt hat die Powershell Datei externe Daten.|Ja|
+| 4             |Informationen zum Quiz gebraucht .|Einfügung von Informationen zum Quiz in den Unterseiten.|Der Nutzer hat kann sich jetzt für das Quiz informieren.|Nein|
+
+Heute habe ich mich auf das Modul 122 bei Herr Fähndrich fokussiert. Ich habe alle grunddaten präperiert und angefangen den PowerShell Code zu schreiben, aber zuerst habe ich damit angefangen, die Daten in eine Excel einzufügen und dann mit txt extrahieren um in die PowerShell Datei einzufügen. Danach habe ich noch widgets zwischen den beiden 2 PowerSchell Daten erstellt und entdeckt, dass ich HTML daten in die PowerShell Applikation einfügen kann.(71)
+## 29.06.2024
+
+- [] Reflektierung über den Verlauf des Jahres.
+- [] Anschauen von alten Projekten.
+
