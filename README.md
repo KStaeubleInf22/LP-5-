@@ -115,4 +115,11 @@ Heute habe ich angefangen, indem ich mein Modul 293 Projekt auf diesem GitHub ho
 
 ## Reflexion
 
-Diese LP war eine sehr lange lern-Periode. Ich wusste dass ich in dieser Lern-Periode mich für die Kommenden Informatikprojekte vorbereiten wollte. Ich habe ein HTML Projekt gemacht, damit ich herrumexperimentieren konnte und ideen ausprobieren, damit ich dann nicht probleme haben würde während dem Modul. Die Originale Webseite habe ich nie Fertiggestellt, aber sie war definitiv eine bassis für inspirationen und ideen für das Projekt und deswegen würde ich sagen dass das Modul erfolgreich war, weiss es mir für das 293 Modul sehr helfen konnte. (84)
+Diese LP war eine sehr lange lern-Periode. Ich wusste, dass ich in dieser Lern-Periode mich für die kommenden Informatikprojekte vorbereiten wollte. Ich habe ein HTML-Projekt gemacht, damit ich herumexperimentieren konnte und Ideen ausprobieren, damit ich dann nicht Probleme haben würde während dem Modul. Die Originale Webseite habe ich nie fertiggestellt, aber sie war definitiv eine Basis für Inspirationen und Ideen für das Projekt und deswegen würde ich sagen, dass das Modul erfolgreich war, weiss es mir für das 293 Modul sehr helfen konnte. (84)
+
+![HauptSeite](https://github.com/KStaeubleInf22/LP-5-/assets/111045576/f612ec92-a6c8-4991-96f3-88c08e597f6d)
+![NebenSeite](https://github.com/KStaeubleInf22/LP-5-/assets/111045576/f1c70899-1858-4896-882b-168d9145d6c5)
+![QuizSeite](https://github.com/KStaeubleInf22/LP-5-/assets/111045576/bb00f1ec-c70a-4015-9df0-aff404de6792)
+[link](https://kilian-cryptids-41b792.netlify.app/)
+
+
