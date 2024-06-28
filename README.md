@@ -100,8 +100,8 @@ Heute habe ich mit meinem Projekt angefangen für das Modul 293. Ich habe angefa
 | 4             |Informationen zum Quiz gebraucht .|Einfügung von Informationen zum Quiz in den Unterseiten.|Der Nutzer hat kann sich jetzt für das Quiz informieren.|Nein|
 
 Heute habe ich mich auf das Modul 122 bei Herr Fähndrich fokussiert. Ich habe alle grunddaten präperiert und angefangen den PowerShell Code zu schreiben, aber zuerst habe ich damit angefangen, die Daten in eine Excel einzufügen und dann mit txt extrahieren um in die PowerShell Datei einzufügen. Danach habe ich noch widgets zwischen den beiden 2 PowerSchell Daten erstellt und entdeckt, dass ich HTML daten in die PowerShell Applikation einfügen kann.(71)
-## 29.06.2024
+## 28.06.2024
 
+- [] meine Modul 293 Webseite hier hochladen.
 - [] Reflektierung über den Verlauf des Jahres.
-- [] Anschauen von alten Projekten.
 
