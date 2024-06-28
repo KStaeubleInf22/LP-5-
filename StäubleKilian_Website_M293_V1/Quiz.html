@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Quiz" content="Fragen die abgehakt werden können.">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="Quiz.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>Quiz</h1>
+    <main>
+    Q1. What is a Ijiraq?<br>
+    <input type="radio" name="Question1" >Dwarf<br>
+    <input type="radio" name="Question1" >Ghoul<br>
+    <input type="radio" name="Question1" >Demon of Greed<br>
+    <input type="radio" name="Question1" id="correct1" >shapeshifter<br>
+
+    Q2. Where does the MothMan originate from?<br>
+    <input type="radio" name="Question2" >Brazil<br>
+    <input type="radio" name="Question2" id="correct2" >Fraud Layer of Hell<br>
+    <input type="radio" name="Question2" >Heresy Layer of Hell<br>
+    <input type="radio" name="Question2" >Babylon<br>
+
+    Q3. How are Wendigos created?<br>
+    <input type="radio" name="Question3" id="correct3" >Cannibalism<br>
+    <input type="radio" name="Question3" >Ceremonial sacrifice<br>
+    <input type="radio" name="Question3" >Murder of firstborn son<br>
+    <input type="radio" name="Question3" >Blasphemy<br>
+
+    Q4. How did the Creator survive?<br>
+    <input type="radio" name="Question4" >God saved him<br>
+    <input type="radio" name="Question4" id="correct4" >Consumption of human souls<br>
+    <input type="radio" name="Question4" >Voodoo magic<br>
+    <input type="radio" name="Question4" >Bandages<br>
+
+    Q5. What "can't" Death do?<br>
+    <input type="radio" name="Question5" >Communicate<br>
+    <input type="radio" name="Question5" >Shapeshift<br>
+    <input type="radio" name="Question5" id="correct5" >Kill on his own will<br>
+    <input type="radio" name="Question5" >Kill Gods<br>
+
+    <p><input type="submit" name="submit" value="SubmitQuiz" onclick="result()"></p>
+
+    <script type="text/javascript">
+        function result () {
+            var score=0;
+            if (document.getElementById('correct1').checked) 
+            {
+                score++;
+            }
+            if (document.getElementById('correct2').checked) 
+            {
+                score++;
+            }
+            if (document.getElementById('correct3').checked) 
+            {
+                score++;
+            }
+            if (document.getElementById('correct4').checked) 
+            {
+                score++;
+            }
+            if (document.getElementById('correct5').checked) 
+            {
+                score++;
+            }
+            alert("Your score is: "+score);
+        }
+    </script>
+</main>
+<footer>Kilian Stäuble</footer>
+<a href="index.html">Back</a>
+</body>
+</html>

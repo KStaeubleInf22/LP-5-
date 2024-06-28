@@ -1,0 +1,182 @@
+.annie-use-your-telescope-regular {
+    font-family: "Annie Use Your Telescope", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+body{
+    height: 100;
+    background-color: rgb(84, 2, 2);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: fixed;
+}
+h1{
+    height: 70px;
+    width: 100%;
+    background-color:black;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.144);
+    position: relative;
+    padding: 10px;
+    font-family: "Annie Use Your Telescope";
+    font-size: 6.5ch;
+    color: #d61e1e;
+    text-align: center;
+    vertical-align: top;
+}
+main{
+    text-align: center;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    padding: 10px;
+    color: #ff0c0c;
+    vertical-align: top;
+    font-family: "Annie Use Your Telescope";
+    width: 58ch;
+    margin-left: 48ch;
+    font-size: 2.5ch;
+    position:absolute;
+    top: 18.5ch;
+}
+p{
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    padding: 10px;
+    color: #d61e1e;
+    margin-left: 140ch;
+    font-family: "Annie Use Your Telescope";
+    position: relative;
+    top: -4ch;
+}
+p img{
+width: 80mm;
+}
+nav ul{
+    display: inline-block;
+    background-size: cover;
+  background-color: black;
+  color:red;
+  width: 33ch;
+  position: relative;
+  top: -64ch;
+  font-family: "Annie Use Your Telescope";
+  font-size: 3ch;
+}
+footer{
+    text-align: center;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    padding: 10px;
+    color: #ff0c0c;
+    vertical-align: top;
+    font-family: "Annie Use Your Telescope";
+    width: 50ch;
+    margin-left: 39ch;
+    font-size: 3ch;
+    position: relative;
+    top: -10ch;
+}
+a{
+    color: #000000;
+    font-family: "Annie Use Your Telescope";
+    font-size: 6ch;
+    font-weight: 700;
+    position: relative;
+    margin-left: -46ch;
+    top: -5ch;
+}
+@media only screen and (max-width: 600px) {
+    h1{
+    height: 70px;
+    width: 100%;
+    background-color:black;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.144);
+    position: relative;
+    padding: 10px;
+    font-family: "Annie Use Your Telescope";
+    font-size: 4ch;
+    color: #d61e1e;
+    text-align: center;
+    vertical-align: top;
+}
+main{
+    text-align: center;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    padding: 10px;
+    color: #ff0c0c;
+    vertical-align: top;
+    font-family: "Annie Use Your Telescope";
+    width: 78ch;
+    margin-left: 0ch;
+    font-size: 1.5ch;
+    position:absolute;
+    top: 95.5ch;
+}
+p{
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    padding: 10px;
+    color: #d61e1e;
+    margin-left: 30ch;
+    font-family: "Annie Use Your Telescope";
+    position: relative;
+    top: -2ch;
+}
+p img{
+width: 50mm;
+}
+nav ul{
+    display: inline-block;
+    background-size: cover;
+  background-color: black;
+  color:red;
+  width: 22ch;
+  position: relative;
+  top: -68ch;
+  font-family: "Annie Use Your Telescope";
+  font-size: 2ch;
+}
+footer{
+    text-align: center;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    padding: 10px;
+    color: #ff0c0c;
+    vertical-align: top;
+    font-family: "Annie Use Your Telescope";
+    width: 20ch;
+    margin-left: 38.5ch;
+    font-size: 2ch;
+    position: relative;
+    top: 28ch;
+}
+a{
+    color: #000000;
+    font-family: "Annie Use Your Telescope";
+    font-size: 3ch;
+    font-weight: 700;
+    position: relative;
+    top: 16ch;
+    margin-left: 0ch;
+}
+}
+
+
