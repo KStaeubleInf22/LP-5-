@@ -117,6 +117,10 @@ Heute habe ich angefangen, indem ich mein Modul 293 Projekt auf diesem GitHub ho
 
 Diese LP war eine sehr lange lern-Periode. Ich wusste, dass ich in dieser Lern-Periode mich für die kommenden Informatikprojekte vorbereiten wollte. Ich habe ein HTML-Projekt gemacht, damit ich herumexperimentieren konnte und Ideen ausprobieren, damit ich dann nicht Probleme haben würde während dem Modul. Die Originale Webseite habe ich nie fertiggestellt, aber sie war definitiv eine Basis für Inspirationen und Ideen für das Projekt und deswegen würde ich sagen, dass das Modul erfolgreich war, weiss es mir für das 293 Modul sehr helfen konnte. (84)
 
+## Fertiges Projekt
+
+Mein Projekt, das ich im Verlaufe dieses Moduls gemacht habe, ist eine Art von Bestiarium, indem ich 5 selbsterschaffene Kreaturen präsentiere mit Informationen und Fakten zu diesen Kreaturen. Ich habe darauf geachtet, dass ich Sachen benutzen kann wie custom Fonts, oder die Webseite so Strukturen, das mehre Unterseiten eine CSS-Datei teilen. Es gibt auch ein eingebautes Quiz das mit der Hilfe von Java-Skript, welches direkt ins HTML geschrieben würde, prüfen kann, wie viele antworten man richtig erhalten hat.(78)
+
 [link](https://kilian-cryptids-41b792.netlify.app/)
 
 ![HauptSeite](https://github.com/KStaeubleInf22/LP-5-/assets/111045576/f612ec92-a6c8-4991-96f3-88c08e597f6d)
