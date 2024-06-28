@@ -100,8 +100,19 @@ Heute habe ich mit meinem Projekt angefangen für das Modul 293. Ich habe angefa
 | 4             |Informationen zum Quiz gebraucht .|Einfügung von Informationen zum Quiz in den Unterseiten.|Der Nutzer hat kann sich jetzt für das Quiz informieren.|Nein|
 
 Heute habe ich mich auf das Modul 122 bei Herr Fähndrich fokussiert. Ich habe alle grunddaten präperiert und angefangen den PowerShell Code zu schreiben, aber zuerst habe ich damit angefangen, die Daten in eine Excel einzufügen und dann mit txt extrahieren um in die PowerShell Datei einzufügen. Danach habe ich noch widgets zwischen den beiden 2 PowerSchell Daten erstellt und entdeckt, dass ich HTML daten in die PowerShell Applikation einfügen kann.(71)
+
 ## 28.06.2024
 
-- [] meine Modul 293 Webseite hier hochladen.
-- [] Reflektierung über den Verlauf des Jahres.
+- [X] meine Modul 293 Webseite hier hochladen.
+- [X] Reflektierung über den Verlauf des Jahres.
 
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1             |Modul 293 fertiggestellt.|Hochladung von code.|Erhältlichkeit von code im GitHub.|Ja|
+| 2             |Modul 122 braucht einen PowerShell Code.| Anfangen mit PowerShell Code.|Guten vorschritt und präperation für das modul.|Ja|
+
+Heute habe ich angefangen, indem ich mein Modul 293 Projekt auf diesem GitHub hochgeladen habe. Ich konnte mir für dieses Modul bereitstellen dank dieser LP und fand, dass es passend währe, wenn ich die Webseite hochladen würde, die das wahre Endresultat war von diesem Modul. Nachdem ich das gemacht habe, bin ich durch alle meine alten LP projekte gegangen von diesem Semester.(62)
+
+## Reflexion
+
+Diese LP war eine sehr lange lern-Periode. Ich wusste dass ich in dieser Lern-Periode mich für die Kommenden Informatikprojekte vorbereiten wollte. Ich habe ein HTML Projekt gemacht, damit ich herrumexperimentieren konnte und ideen ausprobieren, damit ich dann nicht probleme haben würde während dem Modul. Die Originale Webseite habe ich nie Fertiggestellt, aber sie war definitiv eine bassis für inspirationen und ideen für das Projekt und deswegen würde ich sagen dass das Modul erfolgreich war, weiss es mir für das 293 Modul sehr helfen konnte. (84)
